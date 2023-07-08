@@ -1,11 +1,15 @@
 # Ma premiere IA
 
-## 1 - Mumtiplier les entrées par le poids des synapses
+![dataset](https://github.com/alzC/first-ai/blob/main/dataset.png)
 
-## 2 - Appliquer la fonction sigmoid f(x) = 1/(1+e¨-x)
+*Etapes :*
 
-## 3 - Calculer la marge d'erreur
+* 1 - Multiplier les entrées par le poids des synapses*
 
-## 4 - modifier le poids des synapses
+* 2 - Appliquer la fonction sigmoid f(x) = 1/(1+e¨-x)*
 
-## 5 - Etrainer notre réseau
+* 3 - Calculer la marge d'erreur*
+
+* 4 - modifier le poids des synapses*
+
+* 5 - Etrainer notre réseau*
