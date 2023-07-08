@@ -2,6 +2,10 @@
 
 ![dataset](https://github.com/alzC/first-ai/blob/main/dataset.png)
 
+*Objectif :*
+
+   - Trouvé la couleur de la pétale manquante grace au données enregistré.
+
 *Etapes :*
 
 * 1 - Multiplier les entrées par le poids des synapses*
